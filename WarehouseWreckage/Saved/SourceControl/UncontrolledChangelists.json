@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicated.umap",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Warehouse-Wreckage/WarehouseWreckage/Content/Maps/Duplicated.umap",
+				"C:/Users/ryan2/OneDrive/Documents/GitHub/Unreal5Course/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
